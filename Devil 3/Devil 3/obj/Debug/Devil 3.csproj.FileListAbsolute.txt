@@ -1,0 +1,16 @@
+C:\Users\Dom\source\repos\Devil 3\Devil 3\bin\Debug\Devil 3.exe.config
+C:\Users\Dom\source\repos\Devil 3\Devil 3\bin\Debug\Devil 3.exe
+C:\Users\Dom\source\repos\Devil 3\Devil 3\bin\Debug\Devil 3.pdb
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil 3.csproj.AssemblyReference.cache
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil_3.CharacterCreationScreen.resources
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil_3.Form1.resources
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil_3.Properties.Resources.resources
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil 3.csproj.GenerateResource.cache
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil 3.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil 3.exe
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil 3.pdb
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil_3.CharacterLoadScreen.resources
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil_3.HelpScreen.resources
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil_3.GameScreen.resources
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil_3.Controls.resources
+C:\Users\Dom\source\repos\Devil 3\Devil 3\obj\Debug\Devil_3.SettingScreen.resources
